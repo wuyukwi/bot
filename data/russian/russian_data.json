@@ -1,0 +1,2079 @@
+{
+    "615319175": {
+        "1044763336": {
+            "user_id": "1044763336",
+            "group_id": "615319175",
+            "nickname": "Lemon",
+            "gold": 1690,
+            "make_gold": 7259,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        }
+    },
+    "541804266": {
+        "1044763336": {
+            "user_id": "1044763336",
+            "group_id": "541804266",
+            "nickname": "柠檬",
+            "gold": 5270,
+            "make_gold": 92999,
+            "lose_gold": 105167,
+            "win_count": 51,
+            "lose_count": 47,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 5,
+            "stock": {
+                "value": 76871.59723049893,
+                "次元行者跨一群": 1000,
+                "mxy群": 9500
+            },
+            "props": {
+                "四叶草标记": 6,
+                "20%额外奖励": 0,
+                "钻石会员卡": 6,
+                "20%结算补贴": 6
+            }
+        },
+        "912498361": {
+            "user_id": "912498361",
+            "group_id": "541804266",
+            "nickname": "休闲模式脾脾",
+            "gold": 65124,
+            "make_gold": 210901,
+            "lose_gold": 157243,
+            "win_count": 47,
+            "lose_count": 48,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 1,
+            "stock": {
+                "value": 12137.620615341935,
+                "mxy群": 1500
+            },
+            "props": {
+                "四叶草标记": 6,
+                "20%额外奖励": 2,
+                "钻石会员卡": 6,
+                "钻石": 1,
+                "20%结算补贴": 2
+            }
+        },
+        "1131621689": {
+            "user_id": "1131621689",
+            "group_id": "541804266",
+            "nickname": "金鱼",
+            "gold": 6612,
+            "make_gold": 13286,
+            "lose_gold": 3542,
+            "win_count": 7,
+            "lose_count": 7,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 2,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0,
+                "次元行者跨一群": 0
+            },
+            "props": {
+                "钻石会员卡": 0,
+                "四叶草标记": 0
+            }
+        },
+        "1120883994": {
+            "user_id": "1120883994",
+            "group_id": "541804266",
+            "nickname": "青きり",
+            "gold": 96833,
+            "make_gold": 292782,
+            "lose_gold": 267905,
+            "win_count": 152,
+            "lose_count": 139,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 1,
+            "Achieve_victory": 1,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 8091.747076894623,
+                "次元行者跨一群": 2000,
+                "mxy群": 1000
+            },
+            "props": {
+                "四叶草标记": 6,
+                "20%结算补贴": 5,
+                "钻石会员卡": 5,
+                "20%额外奖励": 4
+            }
+        },
+        "1582304774": {
+            "user_id": "1582304774",
+            "group_id": "541804266",
+            "nickname": "影帝",
+            "gold": 7869,
+            "make_gold": 15396,
+            "lose_gold": 2686,
+            "win_count": 3,
+            "lose_count": 8,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 1,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 1764.000862763028,
+                "mxy群": 218
+            },
+            "props": {
+                "四叶草标记": 0
+            }
+        },
+        "1095277250": {
+            "user_id": "1095277250",
+            "group_id": "541804266",
+            "nickname": "龙卷風",
+            "gold": 66892,
+            "make_gold": 115094,
+            "lose_gold": 80169,
+            "win_count": 139,
+            "lose_count": 84,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 1,
+            "Achieve_victory": 9,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0,
+                "次元行者跨一群": 0,
+                "mxy群": 0
+            },
+            "props": {
+                "钻石会员卡": 5,
+                "20%结算补贴": 5,
+                "四叶草标记": 5,
+                "钻石": 1,
+                "20%额外奖励": 0
+            }
+        },
+        "865572400": {
+            "user_id": "865572400",
+            "group_id": "541804266",
+            "nickname": "轮轮",
+            "gold": 1987,
+            "make_gold": 19691,
+            "lose_gold": 14304,
+            "win_count": 9,
+            "lose_count": 15,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 1,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {
+                "四叶草标记": 0
+            }
+        },
+        "972451843": {
+            "user_id": "972451843",
+            "group_id": "541804266",
+            "nickname": "懒惰的猪",
+            "gold": 24134,
+            "make_gold": 39740,
+            "lose_gold": 18739,
+            "win_count": 24,
+            "lose_count": 26,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 1,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0,
+                "次元行者跨一群": 0,
+                "mxy群": 0
+            },
+            "props": {
+                "钻石会员卡": 3,
+                "20%额外奖励": 0,
+                "四叶草标记": 4,
+                "钻石": 1,
+                "20%结算补贴": 0
+            }
+        },
+        "2506950115": {
+            "user_id": "2506950115",
+            "group_id": "541804266",
+            "nickname": "QQ大火",
+            "gold": 1971,
+            "make_gold": 4053,
+            "lose_gold": 2466,
+            "win_count": 1,
+            "lose_count": 4,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": false,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 2,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {
+                "20%结算补贴": 0,
+                "四叶草标记": 0
+            }
+        },
+        "942779447": {
+            "user_id": "942779447",
+            "group_id": "541804266",
+            "nickname": "Athor🍓",
+            "gold": 5728,
+            "make_gold": 48754,
+            "lose_gold": 28883,
+            "win_count": 33,
+            "lose_count": 31,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 4,
+            "stock": {
+                "value": 21847.717107615485,
+                "次元行者跨一群": 1,
+                "mxy群": 2700
+            },
+            "props": {
+                "20%额外奖励": 2,
+                "四叶草标记": 0,
+                "20%结算补贴": 0,
+                "钻石会员卡": 0
+            }
+        },
+        "1211947817": {
+            "user_id": "1211947817",
+            "group_id": "541804266",
+            "nickname": "卫星闪灵红精灵",
+            "gold": 1366,
+            "make_gold": 2188,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": false,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1285595435": {
+            "user_id": "1285595435",
+            "group_id": "541804266",
+            "nickname": "𡘙bobo",
+            "gold": 5665,
+            "make_gold": 43603,
+            "lose_gold": 69122,
+            "win_count": 35,
+            "lose_count": 34,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 5,
+            "stock": {
+                "value": 0.0,
+                "次元行者跨一群": 0,
+                "mxy群": 0
+            },
+            "props": {
+                "20%额外奖励": 0,
+                "钻石会员卡": 1,
+                "四叶草标记": 4,
+                "20%结算补贴": 0
+            }
+        },
+        "2958407376": {
+            "user_id": "2958407376",
+            "group_id": "541804266",
+            "nickname": "阿笑",
+            "gold": 1375,
+            "make_gold": 2867,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": false,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "294531410": {
+            "user_id": "294531410",
+            "group_id": "541804266",
+            "nickname": "我是黑逼",
+            "gold": 997,
+            "make_gold": 1242,
+            "lose_gold": 200,
+            "win_count": 3,
+            "lose_count": 1,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": false,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 3,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "443144588": {
+            "user_id": "443144588",
+            "group_id": "541804266",
+            "nickname": "纯c滞销了，带带我<%ĀĀ\u0007Ñ>",
+            "gold": 1223,
+            "make_gold": 25602,
+            "lose_gold": 23558,
+            "win_count": 25,
+            "lose_count": 31,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 2,
+            "stock": {
+                "value": 0.0,
+                "次元行者跨一群": 1000,
+                "mxy群": 0
+            },
+            "props": {
+                "钻石会员卡": 1,
+                "20%结算补贴": 1,
+                "四叶草标记": 6
+            }
+        },
+        "857027897": {
+            "user_id": "857027897",
+            "group_id": "541804266",
+            "nickname": "攻击性强",
+            "gold": 994,
+            "make_gold": 8075,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": false,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "895569402": {
+            "user_id": "895569402",
+            "group_id": "541804266",
+            "nickname": "指点江山",
+            "gold": 962,
+            "make_gold": 13759,
+            "lose_gold": 13505,
+            "win_count": 6,
+            "lose_count": 12,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 4,
+            "stock": {
+                "value": 404.5873538447312,
+                "次元行者跨一群": 300,
+                "mxy群": 50
+            },
+            "props": {}
+        },
+        "2624150859": {
+            "user_id": "2624150859",
+            "group_id": "541804266",
+            "nickname": "海豹",
+            "gold": 427,
+            "make_gold": 1897,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": false,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "549516818": {
+            "user_id": "549516818",
+            "group_id": "541804266",
+            "nickname": "Obama_Nekokami",
+            "gold": 236,
+            "make_gold": 1364,
+            "lose_gold": 300,
+            "win_count": 1,
+            "lose_count": 3,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": false,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 1,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "2448830226": {
+            "user_id": "2448830226",
+            "group_id": "541804266",
+            "nickname": "绿绿绿绿绿",
+            "gold": 1446,
+            "make_gold": 1366,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1944363294": {
+            "user_id": "1944363294",
+            "group_id": "541804266",
+            "nickname": "八九寺",
+            "gold": 2611,
+            "make_gold": 11683,
+            "lose_gold": 8008,
+            "win_count": 4,
+            "lose_count": 10,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 2,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1446509181": {
+            "user_id": "1446509181",
+            "group_id": "541804266",
+            "nickname": "糖",
+            "gold": 557,
+            "make_gold": 5893,
+            "lose_gold": 7203,
+            "win_count": 0,
+            "lose_count": 9,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 9,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "651054580": {
+            "user_id": "651054580",
+            "group_id": "541804266",
+            "nickname": "♪ Out丶",
+            "gold": 213,
+            "make_gold": 4275,
+            "lose_gold": 2456,
+            "win_count": 0,
+            "lose_count": 3,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 3,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "395723656": {
+            "user_id": "395723656",
+            "group_id": "541804266",
+            "nickname": "龙卷风",
+            "gold": 225,
+            "make_gold": 6906,
+            "lose_gold": 3469,
+            "win_count": 3,
+            "lose_count": 8,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 1,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "2629686962": {
+            "user_id": "2629686962",
+            "group_id": "541804266",
+            "nickname": "tassdar",
+            "gold": 0,
+            "make_gold": 6249,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1098389489": {
+            "user_id": "1098389489",
+            "group_id": "541804266",
+            "nickname": "懒猪",
+            "gold": 0,
+            "make_gold": 4462,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1968566537": {
+            "user_id": "1968566537",
+            "group_id": "541804266",
+            "nickname": "棉花糖",
+            "gold": 473,
+            "make_gold": 6045,
+            "lose_gold": 4980,
+            "win_count": 0,
+            "lose_count": 8,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 8,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "2233483624": {
+            "user_id": "2233483624",
+            "group_id": "541804266",
+            "nickname": "sky",
+            "gold": 587,
+            "make_gold": 5434,
+            "lose_gold": 2825,
+            "win_count": 0,
+            "lose_count": 7,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 7,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1419405731": {
+            "user_id": "1419405731",
+            "group_id": "541804266",
+            "nickname": "Season",
+            "gold": 202,
+            "make_gold": 9658,
+            "lose_gold": 6432,
+            "win_count": 3,
+            "lose_count": 11,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 8,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1271038256": {
+            "user_id": "1271038256",
+            "group_id": "541804266",
+            "nickname": "大透明",
+            "gold": 0,
+            "make_gold": 5196,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0,
+                "mxy群": 0
+            },
+            "props": {}
+        },
+        "1649870673": {
+            "user_id": "1649870673",
+            "group_id": "541804266",
+            "nickname": "紗霧",
+            "gold": 4774,
+            "make_gold": 93,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        }
+    },
+    "946705328": {
+        "912498361": {
+            "user_id": "912498361",
+            "group_id": "946705328",
+            "nickname": "脾气",
+            "gold": 12298,
+            "make_gold": 35103,
+            "lose_gold": 10162,
+            "win_count": 21,
+            "lose_count": 10,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 6,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 22987.678085314634,
+                "mxy群": 0,
+                "次元行者跨一群": 2500
+            },
+            "props": {
+                "钻石会员卡": 6,
+                "四叶草标记": 6,
+                "20%额外奖励": 1,
+                "钻石": 2,
+                "20%结算补贴": 0
+            }
+        },
+        "497422792": {
+            "user_id": "497422792",
+            "group_id": "946705328",
+            "nickname": "笙笙",
+            "gold": 11176,
+            "make_gold": 11906,
+            "lose_gold": 4650,
+            "win_count": 8,
+            "lose_count": 6,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 2,
+            "stock": {
+                "value": 0.0,
+                "次元行者跨一群": 0
+            },
+            "props": {}
+        },
+        "1755929287": {
+            "user_id": "1755929287",
+            "group_id": "946705328",
+            "nickname": "柒 i",
+            "gold": 5392,
+            "make_gold": 18650,
+            "lose_gold": 9505,
+            "win_count": 16,
+            "lose_count": 21,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 3,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0,
+                "mxy群": 0,
+                "次元行者跨一群": 0
+            },
+            "props": {
+                "钻石会员卡": 0,
+                "四叶草标记": 2,
+                "20%额外奖励": 0,
+                "20%结算补贴": 1
+            }
+        },
+        "806337480": {
+            "user_id": "806337480",
+            "group_id": "946705328",
+            "nickname": "余生逾",
+            "gold": 6766,
+            "make_gold": 17265,
+            "lose_gold": 12048,
+            "win_count": 9,
+            "lose_count": 11,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 3,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {
+                "四叶草标记": 0,
+                "钻石会员卡": 0,
+                "20%结算补贴": 0
+            }
+        },
+        "100929385": {
+            "user_id": "100929385",
+            "group_id": "946705328",
+            "nickname": "青稞",
+            "gold": 2354,
+            "make_gold": 8594,
+            "lose_gold": 3446,
+            "win_count": 1,
+            "lose_count": 5,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 5,
+            "stock": {
+                "value": 0.0,
+                "次元行者跨一群": 0
+            },
+            "props": {}
+        },
+        "1152439583": {
+            "user_id": "1152439583",
+            "group_id": "946705328",
+            "nickname": "国服第一金币王",
+            "gold": 3964,
+            "make_gold": 89878,
+            "lose_gold": 75269,
+            "win_count": 76,
+            "lose_count": 54,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 2,
+            "stock": {
+                "value": 27585.213702377558,
+                "mxy群": 3000,
+                "次元行者跨一群": 3000
+            },
+            "props": {
+                "20%结算补贴": 1,
+                "四叶草标记": 1
+            }
+        },
+        "664873013": {
+            "user_id": "664873013",
+            "group_id": "946705328",
+            "nickname": "Parfait",
+            "gold": 9748,
+            "make_gold": 16704,
+            "lose_gold": 6200,
+            "win_count": 6,
+            "lose_count": 6,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 3,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1964956087": {
+            "user_id": "1964956087",
+            "group_id": "946705328",
+            "nickname": "さいかわ",
+            "gold": 1108,
+            "make_gold": 4257,
+            "lose_gold": 4500,
+            "win_count": 2,
+            "lose_count": 4,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 3,
+            "stock": {
+                "value": 735.6056987300683,
+                "次元行者跨一群": 80
+            },
+            "props": {}
+        },
+        "972603362": {
+            "user_id": "972603362",
+            "group_id": "946705328",
+            "nickname": "非洲人",
+            "gold": 1907,
+            "make_gold": 1667,
+            "lose_gold": 200,
+            "win_count": 1,
+            "lose_count": 1,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 1,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1346769713": {
+            "user_id": "1346769713",
+            "group_id": "946705328",
+            "nickname": "佛系小赵（骰子王王）",
+            "gold": 4420,
+            "make_gold": 50168,
+            "lose_gold": 41193,
+            "win_count": 29,
+            "lose_count": 32,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 1,
+            "stock": {
+                "value": 5976.796302181805,
+                "次元行者跨一群": 650
+            },
+            "props": {
+                "钻石会员卡": 0,
+                "20%结算补贴": 1,
+                "四叶草标记": 5
+            }
+        },
+        "1061502197": {
+            "user_id": "1061502197",
+            "group_id": "946705328",
+            "nickname": "LaoGao",
+            "gold": 3911,
+            "make_gold": 3944,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {
+                "20%结算补贴": 0,
+                "四叶草标记": 0
+            }
+        },
+        "2389923884": {
+            "user_id": "2389923884",
+            "group_id": "946705328",
+            "nickname": "川三第三次元但第一血法",
+            "gold": 1800,
+            "make_gold": 13144,
+            "lose_gold": 13780,
+            "win_count": 2,
+            "lose_count": 9,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 5,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1076172421": {
+            "user_id": "1076172421",
+            "group_id": "946705328",
+            "nickname": "有点难难",
+            "gold": 205,
+            "make_gold": 10257,
+            "lose_gold": 1160,
+            "win_count": 0,
+            "lose_count": 2,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 2,
+            "stock": {
+                "value": 4597.5356170629275,
+                "mxy群": 0,
+                "次元行者跨一群": 500
+            },
+            "props": {}
+        },
+        "242123745": {
+            "user_id": "242123745",
+            "group_id": "946705328",
+            "nickname": "划影为光",
+            "gold": 7429,
+            "make_gold": 7971,
+            "lose_gold": 1100,
+            "win_count": 4,
+            "lose_count": 1,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 1,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "524878929": {
+            "user_id": "524878929",
+            "group_id": "946705328",
+            "nickname": "奚何",
+            "gold": 10572,
+            "make_gold": 12198,
+            "lose_gold": 1567,
+            "win_count": 1,
+            "lose_count": 2,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 1,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {
+                "钻石会员卡": 2,
+                "四叶草标记": 0,
+                "20%结算补贴": 1
+            }
+        },
+        "1457874034": {
+            "user_id": "1457874034",
+            "group_id": "946705328",
+            "nickname": "柒",
+            "gold": 13363,
+            "make_gold": 19972,
+            "lose_gold": 14832,
+            "win_count": 13,
+            "lose_count": 13,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 1,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0,
+                "mxy群": 0
+            },
+            "props": {}
+        },
+        "2732773040": {
+            "user_id": "2732773040",
+            "group_id": "946705328",
+            "nickname": "国服第一连败王",
+            "gold": 945,
+            "make_gold": 9478,
+            "lose_gold": 8677,
+            "win_count": 1,
+            "lose_count": 13,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 13,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1010495028": {
+            "user_id": "1010495028",
+            "group_id": "946705328",
+            "nickname": "恫恫",
+            "gold": 1352,
+            "make_gold": 8392,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0,
+                "mxy群": 1200
+            },
+            "props": {}
+        },
+        "1044763336": {
+            "user_id": "1044763336",
+            "group_id": "946705328",
+            "nickname": "Lemon",
+            "gold": 0,
+            "make_gold": 6642,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0,
+                "mxy群": 0,
+                "次元行者跨一群": 0
+            },
+            "props": {
+                "四叶草标记": 0,
+                "钻石会员卡": 0
+            }
+        },
+        "348867966": {
+            "user_id": "348867966",
+            "group_id": "946705328",
+            "nickname": "三千星河不若眉间一点",
+            "gold": 2525,
+            "make_gold": 10421,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1940233150": {
+            "user_id": "1940233150",
+            "group_id": "946705328",
+            "nickname": "槿",
+            "gold": 1030,
+            "make_gold": 8093,
+            "lose_gold": 600,
+            "win_count": 0,
+            "lose_count": 2,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 2,
+            "stock": {
+                "value": 0.0,
+                "mxy群": 800
+            },
+            "props": {
+                "四叶草标记": 0,
+                "20%结算补贴": 0,
+                "钻石会员卡": 0
+            }
+        },
+        "578051482": {
+            "user_id": "578051482",
+            "group_id": "946705328",
+            "nickname": "跨5  皮皮鳝丶快走",
+            "gold": 5521,
+            "make_gold": 10786,
+            "lose_gold": 8621,
+            "win_count": 6,
+            "lose_count": 9,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 1,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0,
+                "mxy群": 32
+            },
+            "props": {}
+        },
+        "2512477010": {
+            "user_id": "2512477010",
+            "group_id": "946705328",
+            "nickname": "跨区3a 旧诉",
+            "gold": 0,
+            "make_gold": 0,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1820239794": {
+            "user_id": "1820239794",
+            "group_id": "946705328",
+            "nickname": "冰（赌神）",
+            "gold": 18560,
+            "make_gold": 34984,
+            "lose_gold": 17990,
+            "win_count": 20,
+            "lose_count": 14,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 1,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0,
+                "次元行者跨一群": 0
+            },
+            "props": {
+                "20%额外奖励": 1,
+                "钻石会员卡": 3,
+                "四叶草标记": 2
+            }
+        },
+        "435713050": {
+            "user_id": "435713050",
+            "group_id": "946705328",
+            "nickname": "云",
+            "gold": 0,
+            "make_gold": 0,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1341460601": {
+            "user_id": "1341460601",
+            "group_id": "946705328",
+            "nickname": "那你愿意吗",
+            "gold": 0,
+            "make_gold": 0,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "507547243": {
+            "user_id": "507547243",
+            "group_id": "946705328",
+            "nickname": "X",
+            "gold": 3783,
+            "make_gold": 3838,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "941061639": {
+            "user_id": "941061639",
+            "group_id": "946705328",
+            "nickname": "古0#怪",
+            "gold": 6284,
+            "make_gold": 4482,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1123998126": {
+            "user_id": "1123998126",
+            "group_id": "946705328",
+            "nickname": "瀧川",
+            "gold": 1337,
+            "make_gold": 1239,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1258647535": {
+            "user_id": "1258647535",
+            "group_id": "946705328",
+            "nickname": "栽种明夕颜直视我",
+            "gold": 1174,
+            "make_gold": 5530,
+            "lose_gold": 5000,
+            "win_count": 3,
+            "lose_count": 4,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 2,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1229868282": {
+            "user_id": "1229868282",
+            "group_id": "946705328",
+            "nickname": "老闸总了",
+            "gold": 5292,
+            "make_gold": 5009,
+            "lose_gold": 0,
+            "win_count": 1,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 1,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "3190115004": {
+            "user_id": "3190115004",
+            "group_id": "946705328",
+            "nickname": "Incapable.",
+            "gold": 621,
+            "make_gold": 599,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "309044768": {
+            "user_id": "309044768",
+            "group_id": "946705328",
+            "nickname": "妖的笔",
+            "gold": 2928,
+            "make_gold": 1694,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "2423449732": {
+            "user_id": "2423449732",
+            "group_id": "946705328",
+            "nickname": "2刻",
+            "gold": 5661,
+            "make_gold": 6654,
+            "lose_gold": 1000,
+            "win_count": 0,
+            "lose_count": 1,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 1,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "923457183": {
+            "user_id": "923457183",
+            "group_id": "946705328",
+            "nickname": "D",
+            "gold": 2768,
+            "make_gold": 2768,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        }
+    },
+    "708157568": {
+        "1044763336": {
+            "user_id": "1044763336",
+            "group_id": "708157568",
+            "nickname": "行方不知",
+            "gold": 5536,
+            "make_gold": 5011,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "196713172": {
+            "user_id": "196713172",
+            "group_id": "708157568",
+            "nickname": "校-夜屋ユイ",
+            "gold": 1142,
+            "make_gold": 1120,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "2309773413": {
+            "user_id": "2309773413",
+            "group_id": "708157568",
+            "nickname": "拉·厄斯通忒可",
+            "gold": 0,
+            "make_gold": 0,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1048275447": {
+            "user_id": "1048275447",
+            "group_id": "708157568",
+            "nickname": "跳槽-M晓@水群bot",
+            "gold": 0,
+            "make_gold": 0,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        }
+    },
+    "415665435": {
+        "274058931": {
+            "user_id": "274058931",
+            "group_id": "415665435",
+            "nickname": "果冻",
+            "gold": 6854,
+            "make_gold": 17400,
+            "lose_gold": 3900,
+            "win_count": 18,
+            "lose_count": 9,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 2,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "497968621": {
+            "user_id": "497968621",
+            "group_id": "415665435",
+            "nickname": "端爷",
+            "gold": 7012,
+            "make_gold": 20318,
+            "lose_gold": 8232,
+            "win_count": 12,
+            "lose_count": 22,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 2,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "782110455": {
+            "user_id": "782110455",
+            "group_id": "415665435",
+            "nickname": "外星机器人信者",
+            "gold": 13862,
+            "make_gold": 16645,
+            "lose_gold": 3601,
+            "win_count": 10,
+            "lose_count": 5,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 2,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "867946693": {
+            "user_id": "867946693",
+            "group_id": "415665435",
+            "nickname": "变种人肚肚",
+            "gold": 2799,
+            "make_gold": 14095,
+            "lose_gold": 9852,
+            "win_count": 16,
+            "lose_count": 20,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 2,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "2011543651": {
+            "user_id": "2011543651",
+            "group_id": "415665435",
+            "nickname": "阿套",
+            "gold": 6302,
+            "make_gold": 8007,
+            "lose_gold": 654,
+            "win_count": 7,
+            "lose_count": 6,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 1,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1217437887": {
+            "user_id": "1217437887",
+            "group_id": "415665435",
+            "nickname": "小虫",
+            "gold": 5375,
+            "make_gold": 12706,
+            "lose_gold": 18965,
+            "win_count": 14,
+            "lose_count": 23,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 1,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "3281621824": {
+            "user_id": "3281621824",
+            "group_id": "415665435",
+            "nickname": "骰子信",
+            "gold": 832,
+            "make_gold": 645,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "820871467": {
+            "user_id": "820871467",
+            "group_id": "415665435",
+            "nickname": "冷笑话宗师",
+            "gold": 474,
+            "make_gold": 733,
+            "lose_gold": 100,
+            "win_count": 0,
+            "lose_count": 1,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 1,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "749279656": {
+            "user_id": "749279656",
+            "group_id": "415665435",
+            "nickname": "布丁",
+            "gold": 3283,
+            "make_gold": 6730,
+            "lose_gold": 3900,
+            "win_count": 1,
+            "lose_count": 6,
+            "slot": 0,
+            "is_sign": true,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 1,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "664121450": {
+            "user_id": "664121450",
+            "group_id": "415665435",
+            "nickname": "佳人何处~",
+            "gold": 7774,
+            "make_gold": 14124,
+            "lose_gold": 9429,
+            "win_count": 26,
+            "lose_count": 13,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 1,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "12295827": {
+            "user_id": "12295827",
+            "group_id": "415665435",
+            "nickname": "西村英骑♪",
+            "gold": 3393,
+            "make_gold": 4308,
+            "lose_gold": 0,
+            "win_count": 1,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 1,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        }
+    },
+    "561183410": {
+        "912498361": {
+            "user_id": "912498361",
+            "group_id": "561183410",
+            "nickname": "念姑超咸",
+            "gold": 0,
+            "make_gold": 8332,
+            "lose_gold": 110,
+            "win_count": 2,
+            "lose_count": 2,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 1,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "709826033": {
+            "user_id": "709826033",
+            "group_id": "561183410",
+            "nickname": "锥仔超甜",
+            "gold": 2233,
+            "make_gold": 2396,
+            "lose_gold": 200,
+            "win_count": 0,
+            "lose_count": 1,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 1,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "452209882": {
+            "user_id": "452209882",
+            "group_id": "561183410",
+            "nickname": "别别超棉",
+            "gold": 3493,
+            "make_gold": 3205,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1439771142": {
+            "user_id": "1439771142",
+            "group_id": "561183410",
+            "nickname": "汝勾超深",
+            "gold": 3779,
+            "make_gold": 4345,
+            "lose_gold": 200,
+            "win_count": 2,
+            "lose_count": 1,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 1,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        }
+    },
+    "453371372": {
+        "912498361": {
+            "user_id": "912498361",
+            "group_id": "453371372",
+            "nickname": "啊，好好好",
+            "gold": 0,
+            "make_gold": 7837,
+            "lose_gold": 0,
+            "win_count": 1,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": true,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 1,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "940460127": {
+            "user_id": "940460127",
+            "group_id": "453371372",
+            "nickname": "道",
+            "gold": 16,
+            "make_gold": 1488,
+            "lose_gold": 1400,
+            "win_count": 0,
+            "lose_count": 1,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 1,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "1540012415": {
+            "user_id": "1540012415",
+            "group_id": "453371372",
+            "nickname": "啊，是是是",
+            "gold": 1132,
+            "make_gold": 1011,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "691329332": {
+            "user_id": "691329332",
+            "group_id": "453371372",
+            "nickname": "人菜瘾大还嘴臭",
+            "gold": 1570,
+            "make_gold": 1400,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "752409601": {
+            "user_id": "752409601",
+            "group_id": "453371372",
+            "nickname": "蚂蝗哦",
+            "gold": 750,
+            "make_gold": 670,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        },
+        "2404599604": {
+            "user_id": "2404599604",
+            "group_id": "453371372",
+            "nickname": "猎妈人",
+            "gold": 0,
+            "make_gold": 0,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "slot": 0,
+            "is_sign": false,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        }
+    }
+}

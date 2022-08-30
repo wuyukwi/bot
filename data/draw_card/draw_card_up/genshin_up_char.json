@@ -1,0 +1,66 @@
+{
+    "char": {
+        "title": "「巡御蘙荟」",
+        "pool_img": "https:\/\/patchwiki.biligame.com\/images\/ys\/thumb\/b\/bf\/ptm2yrj188rbcbpeoeqmau76i2xvm9f.png\/1200px-%E7%A5%88%E6%84%BF034-2%E6%9C%9F.png.jpeg",
+        "start_time": "2022-08-24T11:00:00",
+        "end_time": "2022-09-09T17:59:00",
+        "up_char": [
+            {
+                "name": "提纳里",
+                "star": 5,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "柯莱",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "迪奥娜",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "菲谢尔",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            }
+        ]
+    },
+    "arms": {
+        "title": "「陵薮市朝」",
+        "pool_img": "https:\/\/patchwiki.biligame.com\/images\/ys\/thumb\/d\/d6\/le1a8gk2byk2di3bk1uy43bdx4eqo8y.png\/1200px-%E7%A5%88%E6%84%BF034%E6%9C%9F.png.jpeg",
+        "start_time": "2022-08-24T11:00:00",
+        "end_time": "2022-09-09T17:59:00",
+        "up_char": [
+            {
+                "name": "钟离",
+                "star": 5,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "柯莱",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "迪奥娜",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "菲谢尔",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            }
+        ]
+    }
+}

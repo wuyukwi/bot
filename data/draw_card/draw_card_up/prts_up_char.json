@@ -1,0 +1,28 @@
+{
+    "char": {
+        "title": "巨斧与笔尖",
+        "pool_img": "https:\/\/ak.hycdn.cn\/announce\/images\/20220803\/32b482631fcda2d5ee45362f23f9e133.jpg",
+        "start_time": "2022-08-11T16:00:00",
+        "end_time": "2022-08-25T03:59:00",
+        "up_char": [
+            {
+                "name": "百炼嘉维尔 \\ 鸿雪",
+                "star": 6,
+                "limited": false,
+                "zoom": 0.7
+            },
+            {
+                "name": "假日威龙陈",
+                "star": 6,
+                "limited": false,
+                "zoom": 5.0
+            },
+            {
+                "name": "晓歌",
+                "star": 5,
+                "limited": false,
+                "zoom": 0.5
+            }
+        ]
+    }
+}
